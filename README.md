@@ -22,7 +22,7 @@ Pengerjaan akan dilaksanakan selama 15 menit, dengan instruksi berikut:
    git clone <REPOSITORY_URL>
    cd fizz-buzz
    ```
-2. Buat file baru bernama `fizzbuzz.js`
+2. Buat file baru bernama `mobile_dev.js`
 3. Tulis logika FizzBuzz di file tersebut
 4. Jalankan program, tunjukkan dan jelaskan hasilnya selama live share screen
 
@@ -48,29 +48,6 @@ Buzz
 Fizz
 ...
 ```
-
----
-
-## 📂 Pengumpulan
-
-Pengumpulan dengan Git Workflow:
-
-1. Buat branch baru sesuai format:
-   ```bash
-   git checkout -b nama-anda/fizz-buzz
-   ```
-2. Tambahkan file:
-   ```bash
-   git add .
-   ```
-3. Commit dengan pesan yang informatif:
-   ```bash
-   git commit -m <pesan commit>
-   ```
-4. Push ke repository:
-   ```bash
-   git push origin <nama branch>
-   ```
 
 ---
 
