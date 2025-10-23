@@ -17,14 +17,9 @@ Tujuan dari tes ini adalah untuk mengevaluasi kemampuan dasar pemrograman, kemam
 ## 🚀 Instruksi Pengerjaan
 
 Pengerjaan akan dilaksanakan selama 15 menit, dengan instruksi berikut:
-1. Clone repository ini:
-   ```bash
-   git clone <REPOSITORY_URL>
-   cd fizz-buzz
-   ```
-2. Buat file baru bernama `mobile_dev.js`
-3. Tulis logika FizzBuzz di file tersebut
-4. Jalankan program, tunjukkan dan jelaskan hasilnya selama live share screen
+1. Buat file baru bernama `mobile_dev.js`
+2. Tulis logika FizzBuzz di file tersebut
+3. Jalankan program, tunjukkan dan jelaskan hasilnya selama live share screen
 
 ---
 
