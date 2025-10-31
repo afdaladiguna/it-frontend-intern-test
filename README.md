@@ -31,7 +31,6 @@ Buatlah program sederhana yang mencetak angka dari 1 sampai 63, dengan aturan se
 - Jika angka habis dibagi 5, tampilkan `"Buzz"`
 - Jika angka habis dibagi 3 dan 5, tampilkan `"FizzBuzz"`
 - Jika tidak, tampilkan angkanya seperti biasa
-- Tips, gunakan array untuk menyimpan nilai
   
 Contoh output:
 ```
