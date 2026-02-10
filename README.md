@@ -1,36 +1,23 @@
 
 # FizzBuzz Coding Test
 
-## 📝 Overview
-
-Selamat datang di coding test FizzBuzz untuk posisi **Mobile Developer Internship**.  
-Tujuan dari tes ini adalah untuk mengevaluasi kemampuan dasar pemrograman, kemampuan berpikir logis, serta pemahaman penggunaan Git dasar.
-
----
-
-## 🛠️ Tech Stack
-
-- **Bahasa pemrograman:** Javascript/PHP/C++/Dart (Pilih salah satu)
-
----
-
-## 🚀 Instruksi Pengerjaan
+## Instruksi Pengerjaan
 
 Pengerjaan akan dilaksanakan selama 15 menit, dengan instruksi berikut:
-1. Buat file baru bernama `mobile_dev.js`
+1. Buat file baru bernama `it-intern.(js/php/dll.)`
 2. Tulis logika FizzBuzz di file tersebut
 3. Jalankan program, tunjukkan dan jelaskan hasilnya selama live share screen
 
 ---
 
-## 🎯 Objective
+## Objective
 
 Buatlah program sederhana yang mencetak angka dari 1 sampai 63, dengan aturan sebagai berikut:
 
 - Jika angka habis dibagi 3, tampilkan `"Fizz"`
 - Jika angka habis dibagi 5, tampilkan `"Buzz"`
 - Jika angka habis dibagi 3 dan 5, tampilkan `"FizzBuzz"`
-- Jika tidak, tampilkan angkanya seperti biasa
+- Jika tidak, tampilkan angkanya seperti urutan biasa
   
 Contoh output:
 ```
@@ -40,26 +27,31 @@ Fizz
 4
 Buzz
 Fizz
-...
+7
+8
+Fizz
+Buzz
+11
+Fizz
+13
+14
+FizzBuzz
+16
+17
+Fizz
+19
+Buzz
+Fizz
+22
+23
+Fizz
+Buzz
+26
+Fizz
+28
+29
+FizzBuzz
+....
 ```
-
----
-
-## ✅ Penilaian
-
-Kami akan mengevaluasi berdasarkan:
-
-- Pemahaman logika dasar
-- Kemampuan menggunakan Git (branching & commit)
-- Cara menjelaskan solusi secara lisan
-
----
-
-## 💡 Tips
-
-- Jelaskan proses berpikirmu saat mengerjakan
-- Jangan ragu bertanya kalau ada yang kurang jelas
-
----
 
 Good luck!
