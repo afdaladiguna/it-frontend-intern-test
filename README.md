@@ -3,7 +3,7 @@
 
 ## Instruksi Pengerjaan
 
-Pengerjaan akan dilaksanakan selama 15 menit, dengan instruksi berikut:
+Pengerjaan akan dilaksanakan selama 10 menit dimulai dari anda mulai mengetik pada code editor, dengan instruksi berikut:
 1. Buat file baru bernama `it-intern.(js/php/dll.)`
 2. Tulis logika FizzBuzz di file tersebut
 3. Jalankan program, tunjukkan dan jelaskan hasilnya selama live share screen
